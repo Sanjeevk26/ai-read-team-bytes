@@ -1,4 +1,4 @@
-# Module 7: Most Common Mistakes and Best Practices in AI Red Teaming
+# Most Common Mistakes and Best Practices in AI Red Teaming
 
 ## Module Focus
 
