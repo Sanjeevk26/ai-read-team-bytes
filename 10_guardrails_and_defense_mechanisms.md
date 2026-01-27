@@ -1,4 +1,4 @@
-# Module 8: Guardrails and Defense Mechanisms (AI Red Teaming)
+# Guardrails and Defense Mechanisms (AI Red Teaming)
 
 ## What This Module Is About
 
