@@ -319,8 +319,3 @@ Prompt smells help you avoid:
 
 Avoiding them transforms prompt hacking into **professional adversarial evaluation**.
 
----
-
-## File Name
-
-**prompt_smells.md**
